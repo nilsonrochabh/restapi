@@ -10,5 +10,6 @@ class UserController{
             users
         })
     }   
+    //teste para subir 
 } 
 module.exports = new UserController 
